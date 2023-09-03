@@ -11,6 +11,14 @@ This is a simple Python application that allows you to view and save Overwatch p
 - Export statistics to a CSV file.
 - Create and manage user profiles for quick access (BUGGED).
 
+## Download
+
+1. Go to releases
+2. Click on the latest version
+3. Download the zip
+4. Extract the zip file
+5. Open the program
+
 ## Usage
 
 1. Enter a Overwatch player name and BattleTag in the respective fields.
